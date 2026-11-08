@@ -1,0 +1,4 @@
+interface:
+  display_name: "Payment Use Invoice"
+  short_description: "Build a dynamic payment-use invoice from the latest order list"
+  default_prompt: "Scan the source folder and create the current container's Payment Use Invoice."
